@@ -1,28 +1,27 @@
 # Site settings
-title:
-email:
+title: Die kleine Tigerbande
+email: info@kleinetigerbande.de
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+  Die kleine Tigerbande. Tagesmutter Wiebke Potthast in Detmold.
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://kleintigerbande.de" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
-facebook_username:
-twitter_username:
-github_username:
+owner: Wiebke Potthast
+email: info@kleinetigerbande.de
+facebook_username: wiebke.potthast.1
+#twitter_username:
+#github_username: 
 address:
-  - line:
-  - line:
+  - line: Wiebke Potthast
+  - line: Hildesheimer Weg 5
+  - line: 32756 Detmold
   # Feel free to add more lines here 
-telephone:
-copyright:
+telephone: 01515/4814256
+copyright: 2021
 
 # API settings
-google_api_key:
+google_api_key: 
 
 # Build settings
 markdown: kramdown
