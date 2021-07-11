@@ -28,20 +28,25 @@ body {
 }
 
 /* Added. */
-div.desc{
-    background-color: #000;
-    bottom: 0;
-    color: #fff;
-    left: 0;
+.post-content {
+    background: none repeat scroll 0 0 #FFffff;
     opacity: 0.5;
-    position: absolute;
-    width: 100%;
+    margin: 0 auto;
+    margin-top: -54px;
+    text-align:center
+    position: relative;
+    width:40%;   
 }
 
 /* Added. */
-.fix{
-    width: 100%;
-    padding: 0px;
+.thumbnail {
+    margin:0 auto;
+    text-align:center;
+}
+
+/* Added. */
+.wrapper {
+    text-align:center;
 }
 
 .text-vertical-center {
