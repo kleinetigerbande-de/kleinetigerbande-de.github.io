@@ -24,7 +24,7 @@ body {
 /* Added. */
 .header .text-vertical-center h1,
 .header .text-vertical-center h3,
-.callout .text-vertical-center h1,{
+.callout .text-vertical-center h1 {
     text-shadow: 2px 4px 3px rgba(0,0,0,0.7);
 }
 
